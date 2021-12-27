@@ -1,0 +1,13 @@
+p.one{
+    border-style: solid;
+    border-width:thin;
+    border-color: red;
+}
+
+.div{
+    border-style: dotted;
+    border-width:thin;
+    border-color: green;
+    height: 38px;
+    width: 50%;
+}

@@ -1,0 +1,13 @@
+
+#border{
+    border: solid purple;
+    width: 80px;
+}
+
+#noborder{
+    width: 80px;
+    border: none;
+}
+
+
+
